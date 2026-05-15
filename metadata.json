@@ -1,0 +1,13 @@
+{
+  "name": "eMed - Professional Digital Health",
+  "short_name": "eMed",
+  "description": "Premium secure medical application for modern healthcare ecosystem.",
+  "theme_color": "#01579B",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}

@@ -1,0 +1,16 @@
+
+export const AppStep = {
+  WELCOME: 'WELCOME',
+  AUTH: 'AUTH',
+  PAYMENT: 'PAYMENT',
+  PASSPORT: 'PASSPORT',
+  DASHBOARD: 'DASHBOARD'
+};
+
+export const DashboardTab = {
+  APPOINTMENT: 'APPOINTMENT',
+  ANALYSIS: 'ANALYSIS',
+  SOS: 'SOS',
+  CHAT: 'CHAT',
+  PROFILE: 'PROFILE'
+};
